@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.7d2f57f4.css",
-    "main.js": "/repository-name/static/js/main.ea340665.js",
-    "static/js/787.05c72c2e.chunk.js": "/repository-name/static/js/787.05c72c2e.chunk.js",
-    "static/media/logo.svg": "/repository-name/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/repository-name/index.html",
-    "main.7d2f57f4.css.map": "/repository-name/static/css/main.7d2f57f4.css.map",
-    "main.ea340665.js.map": "/repository-name/static/js/main.ea340665.js.map",
-    "787.05c72c2e.chunk.js.map": "/repository-name/static/js/787.05c72c2e.chunk.js.map"
+    "main.css": "/Food-Recipe-App/static/css/main.7d2f57f4.css",
+    "main.js": "/Food-Recipe-App/static/js/main.edd4b5a8.js",
+    "static/js/787.05c72c2e.chunk.js": "/Food-Recipe-App/static/js/787.05c72c2e.chunk.js",
+    "static/media/logo.svg": "/Food-Recipe-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Food-Recipe-App/index.html",
+    "main.7d2f57f4.css.map": "/Food-Recipe-App/static/css/main.7d2f57f4.css.map",
+    "main.edd4b5a8.js.map": "/Food-Recipe-App/static/js/main.edd4b5a8.js.map",
+    "787.05c72c2e.chunk.js.map": "/Food-Recipe-App/static/js/787.05c72c2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2f57f4.css",
-    "static/js/main.ea340665.js"
+    "static/js/main.edd4b5a8.js"
   ]
 }
